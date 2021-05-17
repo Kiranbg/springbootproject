@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: kiran
+Build-Jdk: 11.0.11
+Implementation-Title: HelloWorldSpringBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.infotech.app
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/HelloWorldSpri
+ ngBoot/
+Created-By: Maven Integration for Eclipse
+
